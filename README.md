@@ -7,8 +7,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fcraveiro&show_icons=true&locale=en&layout=compact" alt="fcraveiro" /></p>
 
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=fcraveiro&show_icons=true&locale=en" alt="fcraveiro" /></p>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=fcraveiro&label=Profile%20views&color=0e75b6&style=flat" alt="fcraveiro" /> </p>
+
 <br>
 <br>
 <br>
