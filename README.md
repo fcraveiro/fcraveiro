@@ -4,10 +4,11 @@
 <br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fcraveiro" alt="fcraveiro" /></a> </p>
 <br>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=fcraveiro&show_icons=true&locale=en" alt="fcraveiro" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fcraveiro&show_icons=true&locale=en&layout=compact" alt="fcraveiro" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=fcraveiro&show_icons=true&locale=en" alt="fcraveiro" /></p>
+<p><img align="righ" src="https://github-readme-stats.vercel.app/api/top-langs?username=fcraveiro&show_icons=true&locale=en&layout=compact" alt="fcraveiro" /></p>
 <p>
 <p>
+### Hi there 👋
 <p align="left"> 
 <p align="left"> 
 <h3 align="center">Languages and Tools:</h3>
