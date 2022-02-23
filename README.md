@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fcraveiro&layout=compact)](https://github.com/fcraveiro/github-readme-stats)
 
+img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."
+
+
