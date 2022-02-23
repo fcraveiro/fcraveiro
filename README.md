@@ -1,3 +1,5 @@
+![2000_600px](https://user-images.githubusercontent.com/31604881/155272648-a797ca5b-d9b6-4327-8c32-ae775c7d5bfc.gif)
+
 ### Hi there 👋
 <br>
 <h3 align="center">A passionate Flutter frontend developer</h3>
