@@ -18,9 +18,7 @@
 <table align="center" border="0" cellpadding="1" cellspacing="1" style="width:650px;">
 	<tbody>
 		<tr>
-			<td></td>
 			<td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fcraveiro&" alt="fcraveiro" /></td>
-      <td></td>
 </tr>
 	</tbody>
 </table>
