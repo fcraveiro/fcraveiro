@@ -8,7 +8,6 @@
 <p><img align="righ" src="https://github-readme-stats.vercel.app/api/top-langs?username=fcraveiro&show_icons=true&locale=en&layout=compact" alt="fcraveiro" /></p>
 <p>
 <p>
-### Hi there 👋
 <p align="left"> 
 <p align="left"> 
 <h3 align="center">Languages and Tools:</h3>
