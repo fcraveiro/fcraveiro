@@ -9,9 +9,8 @@
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=fcraveiro&show_icons=true&locale=en" alt="fcraveiro" /></p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=fcraveiro&label=Profile%20views&color=0e75b6&style=flat" alt="fcraveiro" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=fcraveiro&label=Profile%20views&color=0e75b6&style=flat" alt="fcraveiro" /> </p>
 <br>
-<p align="left">
 <br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> </p>
