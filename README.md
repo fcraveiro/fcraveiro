@@ -4,17 +4,12 @@
 <br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fcraveiro" alt="fcraveiro" /></a> </p>
 <br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fcraveiro&show_icons=true&locale=en&layout=compact" alt="fcraveiro" /></p>
-
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=fcraveiro&show_icons=true&locale=en" alt="fcraveiro" /></p>
-
-<br/>
-<br/>
-<br/>
-<br/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fcraveiro&show_icons=true&locale=en&layout=compact" alt="fcraveiro" /></p>
+<p>
+<p>
 <p align="left"> 
-  <p align="left"> 
+<p align="left"> 
 <h3 align="center">Languages and Tools:</h3>
 <p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> </p>
 <br>
