@@ -16,12 +16,3 @@
 <p align="center"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> </p>
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fcraveiro&" alt="fcraveiro" /></p>
-
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fcraveiro&layout=compact)](https://github.com/fcraveiro/github-readme-stats)
-
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
-
-
