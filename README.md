@@ -3,7 +3,9 @@
 <h3 align="center">A passionate Flutter frontend developer</h3>
 <br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fcraveiro" alt="fcraveiro" /></a> </p>
-![trophy](https://github-profile-trophy.vercel.app/?username=fcraveiro&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=fcraveiro&theme=onedark)](https://github.com/fcraveiro/github-profile-trophy)
+
 <br>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=fcraveiro&show_icons=true&locale=en" alt="fcraveiro" /></p>
 <p><img align="righ" src="https://github-readme-stats.vercel.app/api/top-langs?username=fcraveiro&show_icons=true&locale=en&layout=compact" alt="fcraveiro" /></p>
