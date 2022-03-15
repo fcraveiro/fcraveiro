@@ -4,7 +4,7 @@
 <br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fcraveiro" alt="fcraveiro" /></a> </p>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=fcraveiro&theme=onedark)](https://github.com/fcraveiro/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=fcraveiro&theme=onedark)
 
 <br>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=fcraveiro&show_icons=true&locale=en" alt="fcraveiro" /></p>
