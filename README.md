@@ -4,11 +4,6 @@
 <br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fcraveiro&theme=onedark" alt="fcraveiro" /></a> </p>
 <br>
-<p>
-<p align="left"> 
-<p align="left"> 
-<p align="left"> 
-<br>
 <table align="center" border="0" cellpadding="1" cellspacing="1" style="width:650px;">
 	<tbody>
 		<tr>
