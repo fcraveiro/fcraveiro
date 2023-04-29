@@ -1,6 +1,4 @@
-caption1 | caption2
-:-: | :-:
-<video src='video1.mov' width=180/> | <video src='video2.mp4' width=180/>
+<video src='[video1.mov](https://www.youtube.com/watch?v=yiZ1kDjXXVw&ab_channel=SpaceOrbit)' width=180/> | <video src='[video2.mp4](https://www.youtube.com/watch?v=yiZ1kDjXXVw&ab_channel=SpaceOrbit)' width=180/>
 
 ![2000_600px](https://user-images.githubusercontent.com/31604881/155272648-a797ca5b-d9b6-4327-8c32-ae775c7d5bfc.gif)
 <br>
