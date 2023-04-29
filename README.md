@@ -5,9 +5,10 @@
 <video src="https://www.youtube.com/embed/3A7lMo9te68" data-canonical-src="https://www.youtube.com/embed/3A7lMo9te68" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px; min-height: 200px">
 </video>
 
-<src="https://www.youtube.com/embed/3A7lMo9te68">
-youtube: [https://www.youtube.com/embed/VIDEO_ID_HERE](https://www.youtube.com/embed/3A7lMo9te68)
-  
+youtube
+"https://www.youtube.com/embed/3A7lMo9te68"
+
+
 ![2000_600px](https://user-images.githubusercontent.com/31604881/155272648-a797ca5b-d9b6-4327-8c32-ae775c7d5bfc.gif)
 <br>
 <h3 align="center">A passionate Flutter frontend developer</h3>
