@@ -2,6 +2,9 @@
 <video src="https://user-images.githubusercontent.com/6877923/115474571-03c75800-a23e-11eb-8096-8973aad5fa9f.mp4" data-canonical-src="https://user-images.githubusercontent.com/6877923/115474571-03c75800-a23e-11eb-8096-8973aad5fa9f.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px; min-height: 200px">
 </video>
 
+<video src="https://www.youtube.com/embed/3A7lMo9te68" data-canonical-src="https://www.youtube.com/embed/3A7lMo9te68" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px; min-height: 200px">
+</video>
+
 <src="https://www.youtube.com/embed/3A7lMo9te68">
 youtube: [https://www.youtube.com/embed/VIDEO_ID_HERE](https://www.youtube.com/embed/3A7lMo9te68)
   
