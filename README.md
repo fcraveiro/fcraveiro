@@ -19,7 +19,7 @@ https://user-images.githubusercontent.com/31604881/235279460-b946da5f-308f-4229-
 <table align="center" border="0" cellpadding="1" cellspacing="1" style="width:650px;">
 	<tbody>
 		<tr>
-			<td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fcraveiro&" alt="fcraveiro" /></td>
+			##<td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fcraveiro&" alt="fcraveiro" /></td>
 </tr>
 	</tbody>
 </table>
