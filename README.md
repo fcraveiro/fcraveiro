@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://youtu.be/eL1qPEGEIyQ&t=43s&ab_channel=FCraveiro" target="_blank"><img src="internals/img/subtitler-intro-imgur.gif"></a>
+  <a href="[https://youtu.be/eL1qPEGEIyQ&t=43s&ab_channel=FCraveiro](https://www.youtube.com/watch?v=eL1qPEGEIyQ&t=43s&ab_channel=FCraveiro)" target="_blank"><img src="internals/img/subtitler-intro-imgur.gif"></a>
 </p>
 
 
