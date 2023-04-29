@@ -1,4 +1,6 @@
-[<img src="[https://img.youtube.com/vi/v=eL1qPEGEIyQ&t=43s&ab_channel=FCraveiro/maxresdefault.jpg](https://www.youtube.com/watch?v=eL1qPEGEIyQ&t=43s&ab_channel=FCraveiro)" width="50%">](https://youtu.be/v=eL1qPEGEIyQ&t=43s&ab_channel=FCraveiro)
+<!-- <p align="center">
+  <a href="https://youtu.be/eL1qPEGEIyQ&t=43s&ab_channel=FCraveiro" target="_blank"><img src="internals/img/subtitler-intro-imgur.gif"></a>
+</p> -->
 
 
 ![2000_600px](https://user-images.githubusercontent.com/31604881/155272648-a797ca5b-d9b6-4327-8c32-ae775c7d5bfc.gif)
