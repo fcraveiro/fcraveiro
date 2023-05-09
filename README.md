@@ -13,7 +13,3 @@
 </tr>
 	</tbody>
 </table>
-
-## Introdução
-
-teste
