@@ -11,3 +11,4 @@
 </tr>
 	</tbody>
 </table>
+![sol](https://github.com/user-attachments/assets/482642b4-745f-4b23-aa31-103b6db87a80)
